@@ -1,15 +1,41 @@
-# Hi, I'm dabin 🌊
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20Im%20dabin&fontSize=90" />
+</div>
 
 
-## Github Stats
-![dabinlee01's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabinlee01)
+<div align="center">
+  <h2 style="font-family: 'Arial', sans-serif;">🌊Introduction🌊</h2>
+  <p style="font-family: 'Helvetica', sans-serif;">안녕하세요. 백엔드 개발자가 되고 싶어 현재 열심히 공부중입니다!</p>
+</div>
 
-## Tech Stacks
-
+<br></br>
+<div align="center">
+  <h2>🛠Tech Stacks🛠</h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+<br></br>
+<div align="center">
+  <h2>🏃‍♀️Github Stats🏃‍♀️</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=dabinlee01&show_icons=true&theme=tokyonight">
+</div>
+
+<br></br>
+<div align="center">
+  <h2>🌿Project🌿</h2>
+ <div>
+   
+   #### 도서관 웹페이지 만들기
+  
+
+
+
+
+
+
 
 
 
